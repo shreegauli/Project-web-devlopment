@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+   
+</head>
+
+<body>
+    <section class="googlemap">
+        <h1 class="googlemap-title">Restaurants Location</h1>
+
+
+        <div class="contact-location">
+           <p> <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1o5jUU2EEV9G1jCPU900k_Ma9SyOh-XQ&ehbc=2E312F&noprof=1" width="1240" height="580"></iframe>
+    </p>
+
+        </div>
+    </section>
+
+</body>
+
+</html>
